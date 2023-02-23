@@ -1,0 +1,64 @@
+.App {
+  font-family: sans-serif;
+}
+
+.background {
+  background-color: #23252c;
+  padding: 30px;
+}
+
+.image {
+  height: 30vh;
+  width: 50;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.name {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 25px;
+  color: aliceblue;
+}
+.designation {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 12px;
+  color: aliceblue;
+}
+
+.button {
+  display: flex;
+  justify-content: space-around;
+  height: 27px;
+  margin-top: 10px;
+}
+.contact-button-1 {
+  width: 75px;
+  border-radius: 8px;
+}
+
+.contact-button-2 {
+  width: 75px;
+  color: aliceblue;
+  background-color: #5093e2;
+  border-radius: 8px;
+}
+
+.text {
+  color: aliceblue;
+}
+
+.bottom {
+  background-color: black;
+  height: 40px;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  padding: 8px;
+}
